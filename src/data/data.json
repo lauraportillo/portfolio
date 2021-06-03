@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "evolution": null,
+      "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "evolution": "bulbasaur",
+      "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    }
+    
+  ]
