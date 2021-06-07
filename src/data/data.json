@@ -26,6 +26,20 @@
         "gitHub"
       ],
       "url": "https://lauraportillo.github.io/my-timer/"
-    }
-     
+    },
+    {
+      "id": 3,
+      "name": "Rick and Morty",
+      "image":"../images/rickandmorty.jpg",
+      "techno": [
+        "react",
+        "jsx",
+        "html5",
+        "css3",
+        "sass", 
+        "git",
+        "gitHub"
+      ],
+      "url": "https://lauraportillo.github.io/rick-and-morty/#/"
+    } 
   ]
