@@ -13,6 +13,19 @@
         "gitHub"
       ],
       "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
+    },
+    {
+      "id": 2,
+      "name": "My timer",
+      "image":"../images/timer.jpg",
+      "techno": [
+        "javascript",
+        "html5",
+        "css3",
+        "git",
+        "gitHub"
+      ],
+      "url": "https://lauraportillo.github.io/my-timer/"
     }
      
   ]
