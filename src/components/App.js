@@ -7,7 +7,12 @@ const App = () => {
   //estados
   const [name, setName] = useState('');
 
-  return <div className="App"></div>;
+  return (
+    <div>
+      <Header />
+      <Footer />
+    </div>
+  );
 };
 
 export default App;
