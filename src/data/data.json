@@ -2,11 +2,15 @@
     {
       "id": 1,
       "name": "My favourite pokemon",
-      // "image":,
+      "image":"../images/pokemon.jpg",
       "techno": [
         "react",
-        "html",
-        "scss"
+        "jsx",
+        "html5",
+        "css3",
+        "sass", 
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
     }
