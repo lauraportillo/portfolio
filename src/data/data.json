@@ -2,12 +2,13 @@
     {
       "id": 1,
       "name": "My favourite pokemon",
-      "types": [
-        "poison",
-        "grass"
+      // "image":,
+      "techno": [
+        "react",
+        "html",
+        "scss"
       ],
-      "evolution": null,
-      "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+      "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
     }
      
   ]
