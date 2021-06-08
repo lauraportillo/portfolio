@@ -43,6 +43,44 @@
       "url": "https://lauraportillo.github.io/rick-and-morty/#/"
     }, 
     {
-      "id": 4
+      "id": 4,
+      "name": "Searchflix series finder",
+      "image":"../images/searchflix.jpg",
+      "techno": [
+        "javascript",
+        "html5",
+        "css3",
+        "git",
+        "gitHub"
+      ],
+      "url": "https://lauraportillo.github.io/searchflix-series-finder/"
+    },
+    {
+      "id": 5,
+      "name": "This is me profile cards",
+      "image":"../images/thisisme.jpg",
+      "techno": [
+        "javascript",
+        "html5",
+        "css3",
+        "sass", 
+        "git",
+        "gitHub"
+      ],
+      "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
+    },
+    {
+      "id": 6,
+      "name": "The fearlescss",
+      "image":"../images/thefearlescss.jpg",
+      "techno": [
+        "html5",
+        "css3",
+        "sass", 
+        "git",
+        "gitHub"
+      ],
+      "url": "https://lauraportillo.github.io/the-fearle-scss/"
     }
+  
   ]
