@@ -6,6 +6,7 @@ import Header from './Header';
 import Footer from './Footer';
 // Styles
 import '../stylesheets/App.scss';
+import '../stylesheets/Reset.scss';
 
 const App = () => {
   //estados
@@ -15,7 +16,10 @@ const App = () => {
     <div>
       <Header />
       <main className="containerMain">
-        <div className="house"></div>
+        <Switch>
+          <Route path="/" exact></Route>
+          <Route path="/about" />
+        </Switch>
       </main>
       <Footer />
     </div>
