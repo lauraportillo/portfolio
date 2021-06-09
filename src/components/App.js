@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import { Route, Switch } from 'react-router-dom';
 // Components
 import Header from './Header';
+import HouseList from './HouseList';
 import Footer from './Footer';
 // Styles
 import '../stylesheets/App.scss';
@@ -17,7 +18,9 @@ const App = () => {
       <Header />
       <main className="containerMain">
         <Switch>
-          <Route path="/" exact></Route>
+          <Route path="/" exact>
+            <HouseList />
+          </Route>
           <Route path="/about" />
         </Switch>
       </main>
