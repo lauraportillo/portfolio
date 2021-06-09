@@ -4,7 +4,9 @@ import '../stylesheets/Header.scss';
 const Header = (props) => {
   return (
     <>
-      <div></div>
+      <h1>laura portillo rodríguez</h1>
+      <h3>From buildings to code, always structuring</h3>
+      <nav></nav>
     </>
   );
 };
