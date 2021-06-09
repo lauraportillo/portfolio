@@ -1,7 +1,10 @@
+// React
 import React, { useState } from 'react';
+import { Route, Switch } from 'react-router-dom';
+// Components
 import Header from './Header';
-import Main from './Main';
 import Footer from './Footer';
+// Styles
 import '../stylesheets/App.scss';
 
 const App = () => {
@@ -11,7 +14,9 @@ const App = () => {
   return (
     <div>
       <Header />
-      <Main />
+      <main className="containerMain">
+        <div className="house"></div>
+      </main>
       <Footer />
     </div>
   );
