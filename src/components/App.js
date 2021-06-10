@@ -1,6 +1,8 @@
 // React
 import React, { useState } from 'react';
 import { Route, Switch } from 'react-router-dom';
+// Data
+import data from '../data/data.json';
 // Components
 import Header from './Header';
 import HouseList from './HouseList';
@@ -11,6 +13,7 @@ import '../stylesheets/Reset.scss';
 
 const App = () => {
   //estados
+  const [houses] = useState(data);
   const [name, setName] = useState('');
 
   return (
@@ -19,7 +22,7 @@ const App = () => {
       <main className="containerMain">
         <Switch>
           <Route path="/" exact>
-            <HouseList />
+            <HouseList houses={houses} />
           </Route>
           <Route path="/about" />
         </Switch>
