@@ -17,7 +17,7 @@ const App = () => {
   const [name, setName] = useState('');
 
   return (
-    <div>
+    <div className="containerBody">
       <Header />
       <main className="containerMain">
         <Switch>

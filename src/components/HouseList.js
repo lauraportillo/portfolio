@@ -13,7 +13,7 @@ const HouseList = (props) => {
 
   return (
     <div className="">
-      <ul className="">{renderHouse}</ul>
+      <ul className="houseList">{renderHouse}</ul>
     </div>
   );
 };

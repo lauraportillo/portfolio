@@ -7,14 +7,14 @@ const House = (props) => {
   });
 
   return (
-    <article>
-      <div>
+    <article className="house">
+      <div className="house__shape">
         <div>
           <img src={props.house.image} alt={props.house.name} />
         </div>
         <ul> {houseTech}</ul>
       </div>
-      <h2>{props.house.name}</h2>
+      <h2 className="house__title">{props.house.name}</h2>
     </article>
   );
 };
