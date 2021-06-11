@@ -5,12 +5,16 @@
 
 .house__shape {
   background: $color7;
-  display: inline-block;
+  // display: inline-block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
   height: 100px;
   margin-left: 20px;
   margin-top: 55px;
   position: relative;
-  width: 100px;
 }
 .house__shape::before {
   border-bottom: 60px solid $color7;
@@ -25,17 +29,23 @@
 }
 
 .house__shape--image {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
+}
+.photo {
+  width: 100%;
 }
 
 .house__shape--tech {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+  font-weight: 200;
 }
 .house__title {
   font-size: 10px;
   text-transform: uppercase;
-}
-
-.photo {
-  width: 100%;
+  text-align: center;
+  margin: 10px;
 }
