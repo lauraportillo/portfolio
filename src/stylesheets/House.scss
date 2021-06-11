@@ -1,7 +1,7 @@
 @import 'Variables';
 
 .house__shape {
-  background: $color4;
+  background: $color7;
   display: inline-block;
   height: 100px;
   margin-left: 20px;
@@ -10,7 +10,7 @@
   width: 100px;
 }
 .house__shape::before {
-  border-bottom: 60px solid $color4;
+  border-bottom: 60px solid $color7;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
   content: '';
