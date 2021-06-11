@@ -14,7 +14,7 @@ import '../stylesheets/Reset.scss';
 const App = () => {
   //estados
   const [houses] = useState(data);
-  const [name, setName] = useState('');
+  // const [name, setName] = useState('');
 
   return (
     <div className="containerBody">
