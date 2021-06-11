@@ -1,0 +1,25 @@
+@import 'Variables';
+
+.containerFooter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  background-color: $color6;
+  color: $color7;
+  width: 100%;
+}
+
+.containerFooter__icons {
+}
+.containerFooter__icons--link {
+  margin-left: 10px;
+}
+
+.containerFooter__copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
