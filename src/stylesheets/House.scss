@@ -1,5 +1,8 @@
 @import 'Variables';
 
+.house {
+}
+
 .house__shape {
   background: $color7;
   display: inline-block;
@@ -19,4 +22,20 @@
   position: absolute;
   top: -60px;
   width: 0;
+}
+
+.house__shape--image {
+  width: 40px;
+  height: 40px;
+}
+
+.house__shape--tech {
+}
+.house__title {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.photo {
+  width: 100%;
 }

@@ -9,10 +9,10 @@ const House = (props) => {
   return (
     <article className="house">
       <div className="house__shape">
-        <div>
-          <img src={props.house.image} alt={props.house.name} />
+        <div className="house__shape--image">
+          <img className="photo" src={props.house.image} alt={props.house.name} />
         </div>
-        <ul> {houseTech}</ul>
+        <ul className="house__shape--tech"> {houseTech}</ul>
       </div>
       <h2 className="house__title">{props.house.name}</h2>
     </article>
