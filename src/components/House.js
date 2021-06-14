@@ -7,8 +7,8 @@ const House = (props) => {
   });
 
   return (
-    <article className="house">
-      <a href={props.house.url} target="_blank">
+    <article>
+      <a href={props.house.url} target="_blank" className="house">
         <div className="house__shape">
           <div className="house__shape--image">
             <img className="photo" src={props.house.image} alt={props.house.name} />
