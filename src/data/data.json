@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "My favourite pokemon",
-      "image":"../images/pokemon.jpg",
+      "image":"./images/pokemon.jpg",
       "technologies": [
         "react",
         "jsx",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "My timer",
-      "image":"../images/timer.jpg",
+      "image":"./images/timer.jpg",
       "technologies": [
         "javascript",
         "html5",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "name": "Rick and Morty",
-      "image":"../images/rickandmorty.jpg",
+      "image":"./images/rickandmorty.jpg",
       "technologies": [
         "react",
         "jsx",
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "name": "Searchflix series finder",
-      "image":"../images/searchflix.jpg",
+      "image":"./images/searchflix.jpg",
       "technologies": [
         "javascript",
         "html5",
@@ -58,7 +58,7 @@
     {
       "id": 5,
       "name": "This is me profile cards",
-      "image":"../images/thisisme.jpg",
+      "image":"./images/thisisme.jpg",
       "technologies": [
         "javascript",
         "html5",
@@ -72,7 +72,7 @@
     {
       "id": 6,
       "name": "The fearlescss",
-      "image":"../images/thefearlescss.jpg",
+      "image":"./images/thefearlescss.jpg",
       "technologies": [
         "html5",
         "css3",
@@ -85,7 +85,7 @@
     {
       "id": 7,
       "name": "Anonymous proxy",
-      "image":"../images/anonymousproxy.jpg",
+      "image":"./images/anonymousproxy.jpg",
       "technologies": [
         "html5",
         "css3",
@@ -98,7 +98,7 @@
     {
       "id": 8,
       "name": "Look like loop",
-      "image":"../images/looklikeloop.jpg",
+      "image":"./images/looklikeloop.jpg",
       "technologies": [
         "react",
         "jsx",
