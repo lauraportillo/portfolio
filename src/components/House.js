@@ -3,9 +3,24 @@ import '../stylesheets/House.scss';
 
 const House = (props) => {
   const houseTech = props.house.technologies.map((technology, index) => {
+    let techColor = '';
+    if (technology.includes('react')) {
+      techColor = 'react';
+      // } else if (technology.includes('fire')) {
+      //   techColor = 'fire';
+      // } else if (technology.includes('flying')) {
+      //   techColor = 'flying';
+      // } else if (technology.includes('water')) {
+      //   techColor = 'water';
+      // } else if (technology.includes('poison')) {
+      //   techColor = 'poison';
+      // } else {
+      //   techColor = 'grass';
+    }
+
     return (
-      <li key={index}>
-        <img className="photo" src={technology} alt="" />
+      <li className={`icon ${techColor}`} key={index}>
+        <img className="icon__image" src={technology} alt="icons" />
       </li>
     );
   });
