@@ -6,16 +6,16 @@ const House = (props) => {
     let techColor = '';
     if (technology.includes('react')) {
       techColor = 'react';
-      // } else if (technology.includes('fire')) {
-      //   techColor = 'fire';
-      // } else if (technology.includes('flying')) {
-      //   techColor = 'flying';
-      // } else if (technology.includes('water')) {
-      //   techColor = 'water';
-      // } else if (technology.includes('poison')) {
-      //   techColor = 'poison';
-      // } else {
-      //   techColor = 'grass';
+    } else if (technology.includes('html5')) {
+      techColor = 'html5';
+    } else if (technology.includes('css3')) {
+      techColor = 'css3';
+    } else if (technology.includes('sass')) {
+      techColor = 'sass';
+    } else if (technology.includes('git')) {
+      techColor = 'git';
+    } else {
+      techColor = 'gitHub';
     }
 
     return (
