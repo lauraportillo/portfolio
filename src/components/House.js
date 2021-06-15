@@ -3,7 +3,11 @@ import '../stylesheets/House.scss';
 
 const House = (props) => {
   const houseTech = props.house.technologies.map((technology, index) => {
-    return <li key={index}>{technology}</li>;
+    return (
+      <li key={index}>
+        <img className="photo" src={technology} alt="" />
+      </li>
+    );
   });
 
   return (

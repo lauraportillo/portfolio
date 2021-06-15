@@ -4,7 +4,7 @@
       "name": "My favourite pokemon",
       "image":"./images/pokemon.jpg",
       "technologies": [
-        "react",
+        "./icons/react.svg",
         "jsx",
         "html5",
         "css3",
