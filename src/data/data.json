@@ -18,11 +18,11 @@
       "name": "My timer",
       "image":"./images/timer.jpg",
       "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "git",
-        "gitHub"
+        "./icons/javascript.svg",
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/my-timer/"
     },
@@ -31,13 +31,12 @@
       "name": "Rick and Morty",
       "image":"./images/rickandmorty.jpg",
       "technologies": [
-        "react",
-        "jsx",
-        "html5",
-        "css3",
-        "sass", 
-        "git",
-        "gitHub"
+        "./icons/react.svg",
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/sass.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/rick-and-morty/#/"
     }, 
@@ -46,11 +45,11 @@
       "name": "Searchflix series finder",
       "image":"./images/searchflix.jpg",
       "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "git",
-        "gitHub"
+        "./icons/javascript.svg",
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/searchflix-series-finder/"
     },
@@ -59,12 +58,12 @@
       "name": "This is me profile cards",
       "image":"./images/thisisme.jpg",
       "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "sass", 
-        "git",
-        "gitHub"
+        "./icons/javascript.svg",
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/sass.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
     },
@@ -73,11 +72,11 @@
       "name": "The fearlescss",
       "image":"./images/thefearlescss.jpg",
       "technologies": [
-        "html5",
-        "css3",
-        "sass", 
-        "git",
-        "gitHub"
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/sass.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/the-fearle-scss/"
     },
@@ -86,11 +85,11 @@
       "name": "Anonymous proxy",
       "image":"./images/anonymousproxy.jpg",
       "technologies": [
-        "html5",
-        "css3",
-        "sass", 
-        "git",
-        "gitHub"
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/sass.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg"
       ],
       "url": "https://lauraportillo.github.io/anonymous-proxy/"
     },
@@ -99,13 +98,12 @@
       "name": "Look like loop",
       "image":"./images/looklikeloop.jpg",
       "technologies": [
-        "react",
-        "jsx",
-        "html5",
-        "css3",
-        "sass", 
-        "git",
-        "gitHub" 
+        "./icons/react.svg",
+        "./icons/html5.svg",
+        "./icons/css3.svg",
+        "./icons/sass.svg",
+        "./icons/git.svg",
+         "./icons/gitHub.svg" 
       ],
       "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
     }

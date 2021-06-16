@@ -73,6 +73,9 @@
 }
 
 // TECHNOLOGIES COLOR
+// path {
+//   fill: currentColor !important;
+// }
 
 .react {
   background-color: $colorReact;
@@ -96,4 +99,8 @@
 
 .gitHub {
   background-color: $colorGitHub;
+}
+
+.javascript {
+  background-color: $colorJs;
 }

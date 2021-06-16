@@ -12,6 +12,8 @@ const House = (props) => {
       techColor = 'css3';
     } else if (technology.includes('sass')) {
       techColor = 'sass';
+    } else if (technology.includes('javascript')) {
+      techColor = 'javascript';
     } else if (technology.includes('git')) {
       techColor = 'git';
     } else {
