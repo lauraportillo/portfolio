@@ -4,12 +4,12 @@
       "name": "My favourite pokemon",
       "image":"./images/pokemon.jpg",
       "technologies": [
-        "./icons/react.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-        "./icons/gitHub.svg"
+        "./icons/react.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+        "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
     },
@@ -18,11 +18,11 @@
       "name": "My timer",
       "image":"./images/timer.jpg",
       "technologies": [
-        "./icons/javascript.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/javascript.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/my-timer/"
     },
@@ -31,12 +31,12 @@
       "name": "Rick and Morty",
       "image":"./images/rickandmorty.jpg",
       "technologies": [
-        "./icons/react.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/react.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/rick-and-morty/#/"
     }, 
@@ -45,11 +45,11 @@
       "name": "Searchflix series finder",
       "image":"./images/searchflix.jpg",
       "technologies": [
-        "./icons/javascript.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/javascript.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/searchflix-series-finder/"
     },
@@ -58,12 +58,12 @@
       "name": "This is me profile cards",
       "image":"./images/thisisme.jpg",
       "technologies": [
-        "./icons/javascript.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/javascript.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
     },
@@ -72,11 +72,11 @@
       "name": "The fearlescss",
       "image":"./images/thefearlescss.jpg",
       "technologies": [
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/the-fearle-scss/"
     },
@@ -85,11 +85,11 @@
       "name": "Anonymous proxy",
       "image":"./images/anonymousproxy.jpg",
       "technologies": [
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg"
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png"
       ],
       "url": "https://lauraportillo.github.io/anonymous-proxy/"
     },
@@ -98,12 +98,12 @@
       "name": "Look like loop",
       "image":"./images/looklikeloop.jpg",
       "technologies": [
-        "./icons/react.svg",
-        "./icons/html5.svg",
-        "./icons/css3.svg",
-        "./icons/sass.svg",
-        "./icons/git.svg",
-         "./icons/gitHub.svg" 
+        "./icons/react.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png" 
       ],
       "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
     }
