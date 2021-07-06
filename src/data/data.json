@@ -1,6 +1,19 @@
 [
-    {
-      "id": 1,
+  {
+    "id": 1,
+    "name": "Read heroes",
+    "image":"./images/readheroes.jpg",
+    "technologies": [
+      "./icons/react.png",
+      "./icons/html5.png",
+      "./icons/css3.png",
+      "./icons/sass.png",
+      "./icons/git.png",
+       "./icons/gitHub.png"
+    ],
+    "url": "https://lauraportillo.github.io/read-heroes/#/"
+  }, {
+      "id": 2,
       "name": "My favourite pokemon",
       "image":"./images/pokemon.jpg",
       "technologies": [
@@ -14,7 +27,7 @@
       "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "My timer",
       "image":"./images/timer.jpg",
       "technologies": [
@@ -27,7 +40,7 @@
       "url": "https://lauraportillo.github.io/my-timer/"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Rick and Morty",
       "image":"./images/rickandmorty.jpg",
       "technologies": [
@@ -41,7 +54,7 @@
       "url": "https://lauraportillo.github.io/rick-and-morty/#/"
     }, 
     {
-      "id": 4,
+      "id": 5,
       "name": "Searchflix series finder",
       "image":"./images/searchflix.jpg",
       "technologies": [
@@ -54,7 +67,7 @@
       "url": "https://lauraportillo.github.io/searchflix-series-finder/"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "This is me profile cards",
       "image":"./images/thisisme.jpg",
       "technologies": [
@@ -68,7 +81,7 @@
       "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "The fearlescss",
       "image":"./images/thefearlescss.jpg",
       "technologies": [
@@ -81,7 +94,7 @@
       "url": "https://lauraportillo.github.io/the-fearle-scss/"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Anonymous proxy",
       "image":"./images/anonymousproxy.jpg",
       "technologies": [
@@ -94,7 +107,7 @@
       "url": "https://lauraportillo.github.io/anonymous-proxy/"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Look like loop",
       "image":"./images/looklikeloop.jpg",
       "technologies": [
@@ -106,5 +119,19 @@
          "./icons/gitHub.png" 
       ],
       "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
+    },
+    {
+      "id": 10,
+      "name": "Number game",
+      "image":"./images/numbergame.jpg",
+      "technologies": [
+        "./icons/react.png",
+        "./icons/html5.png",
+        "./icons/css3.png",
+        "./icons/sass.png",
+        "./icons/git.png",
+         "./icons/gitHub.png" 
+      ],
+      "url": "https://lauraportillo.github.io/number-game/"
     }
   ]
