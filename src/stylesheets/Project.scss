@@ -1,0 +1,49 @@
+@import 'Variables';
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.icon__image {
+  width: 100%;
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.project__shape {
+  background: $color7;
+  width: 100px;
+  height: 130px;
+}
+
+.project__shape:hover {
+  background: $color1;
+}
+
+.project__shape--image {
+  width: 100px;
+  padding: 5px;
+}
+
+.photo {
+  width: 100%;
+}
+
+.project__shape--tech {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+  font-weight: 200;
+}
+.project__title {
+  font-size: 10px;
+  text-transform: uppercase;
+  margin: 10px;
+}

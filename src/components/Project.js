@@ -1,8 +1,8 @@
 import React from 'react';
-import '../stylesheets/House.scss';
+import '../stylesheets/Project.scss';
 
-const House = (props) => {
-  const houseTech = props.house.technologies.map((technology, index) => {
+const Project = (props) => {
+  const projectTech = props.project.technologies.map((technology, index) => {
     let techColor = '';
     if (technology.includes('react')) {
       techColor = 'react';
@@ -29,17 +29,17 @@ const House = (props) => {
 
   return (
     <article>
-      <a href={props.house.url} target="_blank" className="house">
-        <div className="house__shape">
-          <div className="house__shape--image">
-            <img className="photo" src={props.house.image} alt={props.house.name} />
+      <a href={props.project.url} target="_blank" className="project">
+        <div className="project__shape">
+          <div className="project__shape--image">
+            <img className="photo" src={props.project.image} alt={props.project.name} />
           </div>
         </div>
-        <h2 className="house__title">{props.house.name}</h2>
-        {/* <ul className="house__shape--tech"> {houseTech}</ul> */}
+        <h2 className="project__title">{props.project.name}</h2>
+        {/* <ul className="project__shape--tech"> {projectTech}</ul> */}
       </a>
     </article>
   );
 };
 
-export default House;
+export default Project;
