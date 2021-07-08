@@ -4,12 +4,12 @@
     "name": "Read heroes",
     "image":"./images/readheroes.jpg",
     "technologies": [
-      "./icons/react.png",
-      "./icons/html5.png",
-      "./icons/css3.png",
-      "./icons/sass.png",
-      "./icons/git.png",
-       "./icons/gitHub.png"
+      "react",
+      "html5",
+      "css3",
+      "sass",
+      "git",
+      "gitHub"
     ],
     "url": "https://lauraportillo.github.io/read-heroes/#/"
   }, {
@@ -17,12 +17,12 @@
       "name": "My favourite pokemon",
       "image":"./images/pokemon.jpg",
       "technologies": [
-        "./icons/react.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-        "./icons/gitHub.png"
+        "react",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
     },
@@ -31,11 +31,11 @@
       "name": "Searchflix series finder",
       "image":"./images/searchflix.jpg",
       "technologies": [
-        "./icons/javascript.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "javascript",
+        "html5",
+        "css3",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/searchflix-series-finder/"
     },
@@ -45,12 +45,12 @@
       "name": "Rick and Morty",
       "image":"./images/rickandmorty.jpg",
       "technologies": [
-        "./icons/react.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "react",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/rick-and-morty/#/"
     }, 
@@ -59,11 +59,11 @@
       "name": "My timer",
       "image":"./images/timer.jpg",
       "technologies": [
-        "./icons/javascript.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "javascript",
+        "html5",
+        "css3",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/my-timer/"
     },
@@ -72,12 +72,12 @@
       "name": "This is me profile cards",
       "image":"./images/thisisme.jpg",
       "technologies": [
-        "./icons/javascript.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "javascript",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
     },
@@ -86,11 +86,11 @@
       "name": "The fearlescss",
       "image":"./images/thefearlescss.jpg",
       "technologies": [
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/the-fearle-scss/"
     },
@@ -99,11 +99,11 @@
       "name": "Anonymous proxy",
       "image":"./images/anonymousproxy.jpg",
       "technologies": [
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png"
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub"
       ],
       "url": "https://lauraportillo.github.io/anonymous-proxy/"
     },
@@ -112,12 +112,12 @@
       "name": "Look like loop",
       "image":"./images/looklikeloop.jpg",
       "technologies": [
-        "./icons/react.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png" 
+        "react",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub" 
       ],
       "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
     },
@@ -126,12 +126,12 @@
       "name": "Number game",
       "image":"./images/numbergame.jpg",
       "technologies": [
-        "./icons/react.png",
-        "./icons/html5.png",
-        "./icons/css3.png",
-        "./icons/sass.png",
-        "./icons/git.png",
-         "./icons/gitHub.png" 
+        "react",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub" 
       ],
       "url": "https://lauraportillo.github.io/number-game/"
     }

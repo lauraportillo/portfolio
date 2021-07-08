@@ -1,12 +1,7 @@
 @import 'Variables';
 
 .icon {
-  width: 20px;
-  height: 20px;
-}
-
-.icon__image {
-  width: 100%;
+  margin: 2px;
 }
 
 .project {
@@ -32,13 +27,6 @@
   width: 100%;
 }
 
-.project__shape--tech {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 10px;
-  font-weight: 200;
-}
 .project__title {
   font-size: 14px;
   font-weight: 600;
@@ -47,4 +35,10 @@
 .project__subtitle {
   font-size: 12px;
   font-weight: 400;
+}
+.project__shape--tech {
+  display: flex;
+  font-size: 8px;
+  font-weight: 200;
+  color: $color5;
 }

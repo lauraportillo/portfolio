@@ -1,17 +1,15 @@
 @import 'Variables';
 .containerHeader {
   display: flex;
-  // flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: flex-end;
   padding: 20px;
   background-color: $color7;
-  // width: 100%;
+  width: 480px;
 }
 .containerHeader__title {
   font-size: 20px;
   text-transform: capitalize;
-  padding-right: 150px;
 }
 .containerHeader__subtitle {
   font-size: 10px;
