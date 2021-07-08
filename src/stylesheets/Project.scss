@@ -18,8 +18,9 @@
 
 .project__shape {
   background: $color7;
-  width: 100px;
-  height: 130px;
+  width: 120px;
+  height: 155px;
+  margin: 5px;
 }
 
 .project__shape:hover {
@@ -27,7 +28,7 @@
 }
 
 .project__shape--image {
-  width: 100px;
+  width: 120px;
   padding: 5px;
 }
 
@@ -43,7 +44,8 @@
   font-weight: 200;
 }
 .project__title {
-  font-size: 10px;
+  font-size: 8px;
+  font-weight: 400;
   text-transform: uppercase;
   margin: 10px;
 }
