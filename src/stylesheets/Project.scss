@@ -12,15 +12,12 @@
 .project {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .project__shape {
   background: $color7;
   width: 150px;
   height: 200px;
-  margin: 10px;
 }
 
 .project__shape:hover {
@@ -29,7 +26,6 @@
 
 .project__shape--image {
   width: 150px;
-  // padding: 5px;
 }
 
 .photo {
@@ -44,8 +40,11 @@
   font-weight: 200;
 }
 .project__title {
-  font-size: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+.project__subtitle {
+  font-size: 12px;
   font-weight: 400;
-  text-transform: uppercase;
-  margin: 10px;
 }

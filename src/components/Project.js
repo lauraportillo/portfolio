@@ -36,6 +36,7 @@ const Project = (props) => {
           </div>
         </div>
         <h2 className="project__title">{props.project.name}</h2>
+        <h3 className="project__subtitle">technologies:</h3>
         {/* <ul className="project__shape--tech"> {projectTech}</ul> */}
       </a>
     </article>
