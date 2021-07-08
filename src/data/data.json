@@ -28,8 +28,8 @@
     },
     {
       "id": 3,
-      "name": "My timer",
-      "image":"./images/timer.jpg",
+      "name": "Searchflix series finder",
+      "image":"./images/searchflix.jpg",
       "technologies": [
         "./icons/javascript.png",
         "./icons/html5.png",
@@ -37,8 +37,9 @@
         "./icons/git.png",
          "./icons/gitHub.png"
       ],
-      "url": "https://lauraportillo.github.io/my-timer/"
+      "url": "https://lauraportillo.github.io/searchflix-series-finder/"
     },
+  
     {
       "id": 4,
       "name": "Rick and Morty",
@@ -55,8 +56,8 @@
     }, 
     {
       "id": 5,
-      "name": "Searchflix series finder",
-      "image":"./images/searchflix.jpg",
+      "name": "My timer",
+      "image":"./images/timer.jpg",
       "technologies": [
         "./icons/javascript.png",
         "./icons/html5.png",
@@ -64,7 +65,7 @@
         "./icons/git.png",
          "./icons/gitHub.png"
       ],
-      "url": "https://lauraportillo.github.io/searchflix-series-finder/"
+      "url": "https://lauraportillo.github.io/my-timer/"
     },
     {
       "id": 6,

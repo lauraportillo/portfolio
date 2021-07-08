@@ -1,11 +1,11 @@
 @import 'Variables';
 .containerHeader {
   display: flex;
-  flex-direction: column;
+  // flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 30px;
-  background-color: $color3;
+  padding: 20px;
+  background-color: $color7;
   width: 100%;
 }
 .containerHeader__title {
@@ -26,4 +26,8 @@
 .menu__item {
   text-transform: uppercase;
   margin-left: 5px;
+}
+.menu__item--icon {
+  margin-left: 10px;
+  font-size: 12px;
 }

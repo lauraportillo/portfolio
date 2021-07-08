@@ -1,29 +1,4 @@
 @import 'Variables';
 
 .containerFooter {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 15px;
-  background-color: $color6;
-  color: $color7;
-}
-
-.containerFooter__icons {
-}
-.containerFooter__icons--link {
-  margin-left: 10px;
-  font-size: 12px;
-}
-
-.containerFooter__copy {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 10px;
 }
