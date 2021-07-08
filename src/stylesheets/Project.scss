@@ -18,17 +18,17 @@
 
 .project__shape {
   background: $color7;
-  width: 120px;
-  height: 155px;
-  margin: 5px;
+  width: 150px;
+  height: 200px;
+  margin: 10px;
 }
 
 .project__shape:hover {
-  background: $color1;
+  opacity: 0.3;
 }
 
 .project__shape--image {
-  width: 120px;
+  width: 150px;
   // padding: 5px;
 }
 
