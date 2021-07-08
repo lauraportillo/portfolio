@@ -35,6 +35,11 @@ const Header = (props) => {
               <i className="fa fa-github-alt" alt="github icon"></i>
             </a>
           </li>
+          <li className="menu__item">
+            <a className="menu__item--icon" href="mailto:lauraportillo.ark@gmail.com" target="_blank">
+              <i className="fa fa-envelope" alt="envelope icon"></i>
+            </a>
+          </li>
         </ul>
       </nav>
     </header>
