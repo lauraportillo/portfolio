@@ -1,0 +1,17 @@
+.section1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 20px;
+  width: 480px;
+}
+.section1__left {
+  width: 180px;
+}
+.section1__left--title {
+  font-size: 20px;
+}
+
+.section1__left--subtitle {
+  font-size: 14px;
+}
