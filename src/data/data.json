@@ -134,5 +134,31 @@
         "gitHub" 
       ],
       "url": "https://lauraportillo.github.io/number-game/"
+    },
+    {
+      "id": 10,
+      "name": "Adalab home version",
+      "image":"./images/numbergame.jpg",
+      "technologies": [
+        "html5",
+        "css3",
+        "git",
+        "gitHub" 
+      ],
+      "url": "https://lauraportillo.github.io/number-game/"
+    },
+    {
+      "id": 10,
+      "name": "Number game",
+      "image":"./images/numbergame.jpg",
+      "technologies": [
+        "react",
+        "html5",
+        "css3",
+        "sass",
+        "git",
+        "gitHub" 
+      ],
+      "url": "https://lauraportillo.github.io/number-game/"
     }
   ]
