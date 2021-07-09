@@ -1,4 +1,5 @@
 import React from 'react';
+import image from '../images/lauraportillo.jpg';
 import '../stylesheets/About.scss';
 
 const About = (props) => {
@@ -10,7 +11,7 @@ const About = (props) => {
           <h3 className="section1__left--subtitle">very creative, professional, easy going and organized.</h3>
         </div>
         <div className="section1__right">
-          <img src="../images/lauraportillo" alt="laura" />
+          <img className="section1__right--photo" src={image} alt="laura" />
         </div>
       </section>
     </article>

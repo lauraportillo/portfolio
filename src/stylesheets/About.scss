@@ -1,7 +1,7 @@
 .section1 {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   padding: 20px;
   width: 480px;
 }
@@ -14,4 +14,12 @@
 
 .section1__left--subtitle {
   font-size: 14px;
+}
+
+.section1__right {
+  width: 190px;
+  height: 200px;
+}
+.section1__right--photo {
+  width: 100%;
 }
