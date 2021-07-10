@@ -2,7 +2,7 @@ import React from 'react';
 import image from '../images/lauraportillo.jpg';
 import '../stylesheets/About.scss';
 
-const About = (props) => {
+const AboutEn = (props) => {
   return (
     <article className="about">
       <section className="section1">
@@ -58,4 +58,4 @@ const About = (props) => {
   );
 };
 
-export default About;
+export default AboutEn;

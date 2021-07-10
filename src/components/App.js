@@ -6,7 +6,7 @@ import data from '../data/data.json';
 // Components
 import Header from './Header';
 import ProjectList from './ProjectList';
-import About from './About';
+import AboutEn from './AboutEn';
 import Footer from './Footer';
 // Styles
 import '../stylesheets/App.scss';
@@ -26,7 +26,7 @@ const App = () => {
             <ProjectList projects={projects} />
           </Route>
           <Route path="/about">
-            <About />
+            <AboutEn />
           </Route>
         </Switch>
       </main>
