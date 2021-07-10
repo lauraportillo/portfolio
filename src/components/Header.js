@@ -13,7 +13,7 @@ const Header = (props) => {
           </li>
           <li className="menu__item">|</li>
           <li className="menu__item">
-            <Link to="/about">About me</Link>
+            <Link to="/aboutEn">About me</Link>
           </li>
           <li className="menu__item">|</li>
           <li className="menu__item">
