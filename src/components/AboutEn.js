@@ -15,33 +15,37 @@ const AboutEn = (props) => {
         </div>
       </section>
       <section className="section2">
-        <p className="section2__text">
-          Passionate about order and organization, I studied Architecture, to be able to build ideas, structure spaces,
-          to fit pieces, move them and adjust them.
-        </p>
+        <div className="section2__text">
+          <p className="section2__text--para">
+            Passionate about order and organization, I studied Architecture, to be able to build ideas, structure
+            spaces, to fit pieces, move them and adjust them.
+          </p>
 
-        <p className="section2__text">
-          Admired by technology I embark on this journey as front end developer, where again I have to build, structure,
-          fit and move code, communicating with machines.
-        </p>
+          <p className="section2__text--para">
+            Admired by technology I embark on this journey as front end developer, where again I have to build,
+            structure, fit and move code, communicating with machines.
+          </p>
 
-        <p className="section2__text">
-          My experience working with multidisciplinary and international teams brought me an open mind to interact with
-          other cultures and work methods. I am a creative person, hard-working and I like to have everything under
-          control, but if I don't get it, I look for solutions and ask for help if required.
-        </p>
+          <p className="section2__text--para">
+            My experience working with multidisciplinary and international teams brought me an open mind to interact
+            with other cultures and work methods. I am a creative person, hard-working and I like to have everything
+            under control, but if I don't get it, I look for solutions and ask for help if required.
+          </p>
 
-        <p className="section2__text">
-          My biggest professional challenge has been to take this step towards reinvention, and to be part of the
-          bootcamp from Adalab, which has given me the tools to continue on the path. Once here, I come ready to
-          transfer all my skills to the world of technology.
-        </p>
+          <p className="section2__text--para">
+            My biggest professional challenge has been to take this step towards reinvention, and to be part of the
+            bootcamp from Adalab, which has given me the tools to continue on the path. Once here, I come ready to
+            transfer all my skills to the world of technology.
+          </p>
 
-        <p className="section2__text">
-          Upcoming goals: become an Architect squared, this time in the field of technology!
-        </p>
+          <p className="section2__text--para">
+            Upcoming goals: become an Architect squared, this time in the field of technology!
+          </p>
+        </div>
 
-        {/* <p className="section2__text">
+        <div className="section2__btns"></div>
+
+        {/* <p className="section2__text--para">
           Apasionada por el orden y la organización estudié Arquitectura, para poder construir ideas, estructurar
           espacios, para encajar piezas, moverlas y ajustarlas. Admirada por la tecnología me embarco en este viaje como
           desarrolladora front end, donde de nuevo tengo que construir, estructurar, encajar y mover código,

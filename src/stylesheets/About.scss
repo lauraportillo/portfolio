@@ -33,11 +33,13 @@
 
 .section2 {
   margin-top: 50px;
+}
+.section2__text {
+  font-size: 14px;
   display: flex;
   flex-direction: column;
   width: 300px;
 }
-.section2__text {
+.section2__text--para {
   margin-bottom: 20px;
-  font-size: 14px;
 }
