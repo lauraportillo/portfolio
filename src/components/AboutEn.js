@@ -43,7 +43,11 @@ const AboutEn = (props) => {
           </p>
         </div>
 
-        <div className="section2__btns"></div>
+        <ul className="section2__lang">
+          <li className="section2__lang--en">En</li>
+          <li className="section2__lang--item">|</li>
+          <li className="section2__lang--es">Es</li>
+        </ul>
 
         {/* <p className="section2__text--para">
           Apasionada por el orden y la organización estudié Arquitectura, para poder construir ideas, estructurar
