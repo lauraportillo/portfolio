@@ -1,4 +1,4 @@
-import React from 'react';
+import { Link } from 'react-router-dom';
 import image from '../images/lauraportillo.jpg';
 import '../stylesheets/About.scss';
 
@@ -44,9 +44,13 @@ const AboutEn = (props) => {
         </div>
 
         <ul className="section2__lang">
-          <li className="section2__lang--en">En</li>
+          <li className="section2__lang--en">
+            <Link to="/aboutEn">En</Link>
+          </li>
           <li className="section2__lang--item">|</li>
-          <li className="section2__lang--es">Es</li>
+          <li className="section2__lang--es">
+            <Link to="/aboutEs">Es</Link>
+          </li>
         </ul>
       </section>
     </article>
