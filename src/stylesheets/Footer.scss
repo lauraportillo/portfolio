@@ -3,9 +3,15 @@
 .containerFooter {
   width: 480px;
   border-top: 1px $color6 solid;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 .containerFooter__copy {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
