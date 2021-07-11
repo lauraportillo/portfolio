@@ -1,4 +1,11 @@
 @import 'Variables';
 
 .containerFooter {
+  width: 480px;
+  border-top: 1px $color6 solid;
+}
+.containerFooter__copy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
