@@ -4,7 +4,7 @@ const Project = (props) => {
   const projectTech = props.project.technologies.map((technology, index) => {
     return (
       <li key={index}>
-        <h4 className="icon">{technology}</h4>
+        <h4 className="tech">{technology}</h4>
       </li>
     );
   });

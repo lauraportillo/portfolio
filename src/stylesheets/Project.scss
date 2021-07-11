@@ -1,22 +1,24 @@
 @import 'Variables';
 
-.icon {
+.tech {
   margin: 2px;
 }
 
 .project {
   display: flex;
   flex-direction: column;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .project__shape {
   background: $color7;
-  width: 150px;
-  height: 200px;
+  width: 135px;
+  height: 180px;
 }
 
 .project__shape--image {
-  width: 150px;
+  width: 135px;
 }
 
 .photo {
@@ -29,17 +31,17 @@
 }
 
 .project__title {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 600;
   margin-top: 15px;
 }
 .project__subtitle {
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 400;
 }
 .project__shape--tech {
   display: flex;
-  font-size: 8px;
+  font-size: 7px;
   font-weight: 200;
   color: $color5;
 }
@@ -58,12 +60,12 @@
 
   .project__shape {
     background: $color7;
-    width: 150px;
-    height: 200px;
+    width: 135px;
+    height: 180px;
   }
 
   .project__shape--image {
-    width: 150px;
+    width: 135px;
   }
 
   .photo {
