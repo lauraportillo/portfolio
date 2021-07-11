@@ -5,7 +5,7 @@
   align-items: flex-end;
   padding: 20px;
   background-color: $color7;
-  width: 480px;
+  width: 280px;
 }
 .containerHeader__title {
   font-size: 20px;
@@ -30,4 +30,44 @@
 .menu__item--icon {
   margin-left: 10px;
   font-size: 12px;
+}
+
+//RESPONSIVE
+
+@media all and (min-width: 768px) {
+  .containerHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 20px;
+    background-color: $color7;
+    width: 480px;
+  }
+  .containerHeader__title {
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  .containerHeader__subtitle {
+    font-size: 10px;
+    font-weight: 200;
+  }
+  .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    margin-top: 20px;
+  }
+  .menu__item {
+    text-transform: uppercase;
+    margin-left: 5px;
+    font-weight: 400;
+  }
+  .menu__item--icon {
+    margin-left: 10px;
+    font-size: 12px;
+  }
+}
+
+@media all and (min-width: 1280px) {
 }

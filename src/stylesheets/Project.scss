@@ -43,3 +43,54 @@
   font-weight: 200;
   color: $color5;
 }
+
+//RESPONSIVE
+
+@media all and (min-width: 768px) {
+  .icon {
+    margin: 2px;
+  }
+
+  .project {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project__shape {
+    background: $color7;
+    width: 150px;
+    height: 200px;
+  }
+
+  .project__shape--image {
+    width: 150px;
+  }
+
+  .photo {
+    width: 100%;
+  }
+  .photo:hover {
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.99);
+    transform: scale(1.1);
+    transition: all 0.1s ease-in-out;
+  }
+
+  .project__title {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 15px;
+  }
+  .project__subtitle {
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .project__shape--tech {
+    display: flex;
+    font-size: 8px;
+    font-weight: 200;
+    color: $color5;
+  }
+}
+
+@media all and (min-width: 1280px) {
+}
