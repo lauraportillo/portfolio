@@ -15,7 +15,7 @@ Every article is a link to the web, where you can take a look.
 Just in case you would like to know more about me. Feel free to contact me in LinkedIn, Twitter Github or sending me an email.
 Any suggestion to improve the web is welcome!
 
-### `🚀🚀🚀🚀🚀!`
+### 🚀🚀🚀🚀🚀
 
 - [LinkedIn](https://www.linkedin.com/in/laura-portillo-rodr%C3%ADguez-21965a86/)
 - [GitHub](https://github.com/lauraportillo)
