@@ -12,13 +12,6 @@
 }
 
 @media all and (min-width: 768px) {
-  .containerBody {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: $color7;
-  }
   .containerMain {
     margin-top: 80px;
   }
