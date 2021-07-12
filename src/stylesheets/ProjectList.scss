@@ -4,9 +4,6 @@
   grid-template-columns: 1fr 1fr;
   grid-row-gap: 50px;
 }
-
-//RESPONSIVE
-
 @media all and (min-width: 768px) {
   .projectList {
     grid-template-columns: 1fr 1fr 1fr;
