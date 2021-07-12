@@ -14,6 +14,7 @@
 }
 .section1__left {
   width: 180px;
+  margin-top: 20px;
 }
 .section1__left--title {
   font-size: 20px;
@@ -26,6 +27,7 @@
 .section1__right {
   width: 190px;
   height: 200px;
+  margin-top: -20px;
 }
 .section1__right--photo {
   width: 100%;
@@ -50,8 +52,10 @@
 }
 .section2__lang {
   display: flex;
+  flex-direction: row-reverse;
+  margin-bottom: 15px;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 10px;
 }
 .section2__lang--en {
   font-weight: bold;
@@ -83,6 +87,7 @@
   }
   .section1__left {
     width: 180px;
+    margin-top: 0;
   }
   .section1__left--title {
     font-size: 20px;
@@ -95,6 +100,7 @@
   .section1__right {
     width: 190px;
     height: 200px;
+    margin-top: 0;
   }
   .section1__right--photo {
     width: 100%;
@@ -118,8 +124,7 @@
     margin-bottom: 20px;
   }
   .section2__lang {
-    display: flex;
-    text-transform: uppercase;
+    margin-bottom: 0;
     font-size: 12px;
   }
   .section2__lang--en {
