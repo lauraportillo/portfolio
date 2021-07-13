@@ -57,15 +57,17 @@
   font-weight: 600;
   font-family: $tipo2;
 }
-.section2__lang--en {
+.section2__lang--en,
+.section2__lang--es {
   cursor: pointer;
+}
+.section2__lang--en:hover,
+.section2__lang--es:hover {
+  color: $color4;
 }
 .section2__lang--item {
   margin-left: 5px;
   margin-right: 5px;
-}
-.section2__lang--es {
-  cursor: pointer;
 }
 
 @media all and (min-width: 768px) {
