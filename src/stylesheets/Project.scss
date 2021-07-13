@@ -6,8 +6,8 @@
 .project {
   display: flex;
   flex-direction: column;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .project__shape {
   background: $color7;
@@ -26,15 +26,18 @@
   transition: all 0.1s ease-in-out;
 }
 .project__title {
+  font-family: $tipo1;
   font-size: 12px;
   font-weight: 600;
   margin-top: 15px;
 }
 .project__subtitle {
+  font-family: $tipo2;
   font-size: 10px;
   font-weight: 400;
 }
 .project__shape--tech {
+  font-family: $tipo2;
   display: flex;
   font-size: 7px;
   font-weight: 200;
@@ -42,6 +45,18 @@
 }
 
 @media all and (min-width: 768px) {
+  .project {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .project__shape {
+    width: 150px;
+    height: 190px;
+  }
+  .project__shape--image {
+    width: 150px;
+  }
   .project__title {
     font-size: 14px;
   }

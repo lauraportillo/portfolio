@@ -7,19 +7,13 @@
   padding: 20px;
   background-color: $color7;
   width: 280px;
+  margin-top: 10px;
 }
 .containerHeader__title {
-  font-size: 25px;
+  font-size: 30px;
   text-transform: capitalize;
   font-family: $tipo1;
 }
-
-// $tipo1: 'Playfair Display', serif;
-// $tipo2: 'Roboto Condensed', sans-serif;
-// $tipo3yellowtail: 'Yellowtail', cursive;
-// $tipo4greatvibes: 'Great Vibes', cursive;
-// $tipo5BonaNova: 'Bona Nova', serif
-
 .menu1,
 .menu2 {
   display: flex;
@@ -54,7 +48,7 @@
     width: 480px;
   }
   .containerHeader__title {
-    font-size: 20px;
+    font-size: 25px;
   }
   .containerHeader__nav {
     display: flex;
