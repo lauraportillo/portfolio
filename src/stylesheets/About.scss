@@ -1,3 +1,5 @@
+@import 'Variables';
+
 .about {
   display: flex;
   flex-direction: column;
@@ -16,9 +18,11 @@
 }
 .section1__left--title {
   font-size: 20px;
+  font-family: $tipo1;
 }
 .section1__left--subtitle {
   font-size: 14px;
+  font-family: $tipo1;
 }
 .section1__right {
   width: 190px;
@@ -36,9 +40,10 @@
   width: 240px;
 }
 .section2__text {
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   flex-direction: column;
+  font-family: $tipo1;
 }
 .section2__text--para {
   margin-bottom: 20px;
@@ -48,10 +53,11 @@
   flex-direction: row-reverse;
   margin-bottom: 15px;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: $tipo2;
 }
 .section2__lang--en {
-  font-weight: bold;
   cursor: pointer;
 }
 .section2__lang--item {
@@ -59,7 +65,6 @@
   margin-right: 5px;
 }
 .section2__lang--es {
-  font-weight: bold;
   cursor: pointer;
 }
 
