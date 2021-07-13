@@ -5,7 +5,7 @@
     "image":"./images/readheroes.jpg",
     "technologies": [
       "react",
-      "html5",
+      "jsx",
       "css3",
       "sass",
       "git"
@@ -17,7 +17,7 @@
       "image":"./images/pokemon.jpg",
       "technologies": [
         "react",
-        "html5",
+        "jsx",
         "css3",
         "sass",
         "git"
@@ -43,7 +43,7 @@
       "image":"./images/rickandmorty.jpg",
       "technologies": [
         "react",
-        "html5",
+        "jsx",
         "css3",
         "sass",
         "git"
@@ -105,7 +105,7 @@
       "image":"./images/looklikeloop.jpg",
       "technologies": [
         "react",
-        "html5",
+        "jsx",
         "css3",
         "sass",
         "git"
@@ -117,10 +117,9 @@
       "name": "Number game",
       "image":"./images/numbergame.jpg",
       "technologies": [
-        "react",
+        "javascript",
         "html5",
         "css3",
-        "sass",
         "git"
       ],
       "url": "https://lauraportillo.github.io/number-game/"
@@ -141,6 +140,7 @@
       "name": "K generation",
       "image":"./images/generationk.jpg",
       "technologies": [
+        "javascript",
         "html5",
         "css3",
         "sass",
