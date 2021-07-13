@@ -11,9 +11,17 @@
 .containerFooter__copy {
   display: flex;
   flex-direction: column;
+  font-family: $tipo1;
   font-size: 12px;
+  font-weight: 400;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+.containerFooter__copy--link {
+  cursor: pointer;
+}
+.containerFooter__copy--link:hover {
+  font-weight: 900;
 }
 
 @media all and (min-width: 768px) {
@@ -22,7 +30,7 @@
     margin-top: 80px;
   }
   .containerFooter__copy {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 20px;
     margin-bottom: 20px;
   }
