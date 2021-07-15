@@ -1,8 +1,8 @@
 @import 'Variables';
 
 .icon {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
 
 .icon__image {
@@ -72,35 +72,35 @@
   margin: 10px;
 }
 
-// // TECHNOLOGIES COLOR
-// // path {
-// //   fill: currentColor !important;
-// // }
+// TECHNOLOGIES COLOR
+path {
+  fill: currentColor !important;
+}
 
-// .react {
-//   background-color: $colorReact;
-// }
+.react {
+  background-color: $colorReact;
+}
 
-// .html5 {
-//   background-color: $colorHtml5;
-// }
+.html5 {
+  background-color: $colorHtml5;
+}
 
-// .css3 {
-//   background-color: $colorCss3;
-// }
+.css3 {
+  background-color: $colorCss3;
+}
 
-// .sass {
-//   background-color: $colorSass;
-// }
+.sass {
+  background-color: $colorSass;
+}
 
-// .git {
-//   background-color: $colorGit;
-// }
+.git {
+  background-color: $colorGit;
+}
 
-// .gitHub {
-//   background-color: $colorGitHub;
-// }
+.gitHub {
+  background-color: $colorGitHub;
+}
 
-// .javascript {
-//   background-color: $colorJs;
-// }
+.javascript {
+  background-color: $colorJs;
+}
