@@ -11,7 +11,7 @@ const Project = (props) => {
 
   return (
     <article>
-      <a href={props.project.url} target="_blank" className="project">
+      <a href={props.project.url} target="_blank" className="project" rel="noopener noreferrer">
         <div className="project__shape">
           <div className="project__shape--image">
             <img className="photo" src={props.project.image} alt={props.project.name} />

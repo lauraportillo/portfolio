@@ -19,7 +19,12 @@ const Header = (props) => {
 
         <ul className="menu2">
           <li className="menu2__item">
-            <a className="menu2__item--icon" href="https://twitter.com/LauraPo02860847" target="_blank">
+            <a
+              className="menu2__item--icon"
+              href="https://twitter.com/LauraPo02860847"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fa fa-twitter" alt="twitter icon"></i>
             </a>
           </li>
@@ -28,17 +33,28 @@ const Header = (props) => {
               className="menu2__item--icon"
               href="https://www.linkedin.com/in/laura-portillo-rodr%C3%ADguez-21965a86/"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <i className="fa fa-linkedin" alt="linkedin icon"></i>
             </a>
           </li>
           <li className="menu2__item">
-            <a className="menu2__item--icon" href="https://github.com/lauraportillo" target="_blank">
+            <a
+              className="menu2__item--icon"
+              href="https://github.com/lauraportillo"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fa fa-github-alt" alt="github icon"></i>
             </a>
           </li>
           <li className="menu2__item">
-            <a className="menu2__item--icon" href="mailto:lauraportillo.ark@gmail.com" target="_blank">
+            <a
+              className="menu2__item--icon"
+              href="mailto:lauraportillo.ark@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fa fa-envelope" alt="envelope icon"></i>
             </a>
           </li>
