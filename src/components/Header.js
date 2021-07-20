@@ -4,8 +4,11 @@ import '../stylesheets/Header.scss';
 const Header = (props) => {
   return (
     <header className="containerHeader">
-      <h1 className="containerHeader__title">laura portillo</h1>
-      <h2 className="containerHeader__subtitle">front-end developer</h2>
+      <div className="containerHeader__title">
+        <h1 className="containerHeader__title--1">laura portillo</h1>
+        <h2 className="containerHeader__title--2">front-end developer</h2>
+      </div>
+
       <nav className="containerHeader__nav">
         <ul className="menu1">
           <li className="menu1__item">

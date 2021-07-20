@@ -10,11 +10,17 @@
   margin-top: 10px;
 }
 .containerHeader__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.containerHeader__title--1 {
   font-size: 30px;
   text-transform: capitalize;
   font-family: $tipo1;
 }
-.containerHeader__subtitle {
+.containerHeader__title--2 {
   font-size: 15px;
   text-transform: capitalize;
   font-family: $tipo1;
