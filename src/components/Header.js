@@ -5,6 +5,7 @@ const Header = (props) => {
   return (
     <header className="containerHeader">
       <h1 className="containerHeader__title">laura portillo</h1>
+      <h2 className="containerHeader__subtitle">front-end developer</h2>
       <nav className="containerHeader__nav">
         <ul className="menu1">
           <li className="menu1__item">
