@@ -56,13 +56,17 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
-    width: 480px;
+    width: 600px;
   }
   .containerHeader__title {
+    align-items: flex-start;
+  }
+  .containerHeader__title--1 {
     font-size: 25px;
   }
   .containerHeader__nav {
     display: flex;
+    margin-right: -50px;
   }
   .menu1,
   .menu2 {
