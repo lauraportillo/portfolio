@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Rocky: escape room",
-    "image": "./images/rocky.jpg",
-    "technologies": ["react", "jsx", "css3", "sass", "git"],
-    "url": "https://lauraportillo.github.io/free-rocky/#/"
-  },
-  {
-    "id": 2,
     "name": "My favourite pokemon",
     "image": "./images/pokemon2.jpg",
     "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
+  },
+  {
+    "id": 2,
+    "name": "Rocky: escape room",
+    "image": "./images/rocky.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/free-rocky/#/"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "id": 4,
     "name": "Arts Trivial",
     "image": "./images/trivial2.jpg",
-    "technologies": ["react", "jsx", "css3", " styled comp."],
+    "technologies": ["react", "jsx", "css3", "styled comp."],
     "url": "https://lauraportillo.github.io/trivial/"
   },
   {
@@ -41,7 +41,6 @@
     "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/read-heroes/#/"
   },
-
   {
     "id": 7,
     "name": "Searchflix series finder",
@@ -49,7 +48,6 @@
     "technologies": ["javascript", "html5", "css3", "git"],
     "url": "https://lauraportillo.github.io/searchflix-series-finder/"
   },
-
   {
     "id": 8,
     "name": "My timer",
