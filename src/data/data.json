@@ -1,151 +1,103 @@
 [
   {
     "id": 1,
+    "name": "Rocky: escape room",
+    "image": "./images/rocky.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/free-rocky/#/"
+  },
+  {
+    "id": 2,
+    "name": "My favourite pokemon",
+    "image": "./images/pokemon2.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
+  },
+  {
+    "id": 3,
     "name": "Read heroes",
-    "image":"./images/readheroes.jpg",
-    "technologies": [
-      "react",
-      "jsx",
-      "css3",
-      "sass",
-      "git"
-    ],
+    "image": "./images/readheroes.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/read-heroes/#/"
-  }, {
-      "id": 2,
-      "name": "My favourite pokemon",
-      "image":"./images/pokemon.jpg",
-      "technologies": [
-        "react",
-        "jsx",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/my-favourite-pokemon/"
-    },
-    {
-      "id": 3,
-      "name": "Searchflix series finder",
-      "image":"./images/searchflix.jpg",
-      "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/searchflix-series-finder/"
-    },
-  
-    {
-      "id": 4,
-      "name": "Rick and Morty",
-      "image":"./images/rickandmorty.jpg",
-      "technologies": [
-        "react",
-        "jsx",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/rick-and-morty/#/"
-    }, 
-    {
-      "id": 5,
-      "name": "My timer",
-      "image":"./images/timer.jpg",
-      "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/my-timer/"
-    },
-    {
-      "id": 6,
-      "name": "This is me profile cards",
-      "image":"./images/thisisme.jpg",
-      "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
-    },
-    {
-      "id": 7,
-      "name": "The fearlescss",
-      "image":"./images/thefearlescss.jpg",
-      "technologies": [
-        "html5",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/the-fearle-scss/"
-    },
-    {
-      "id": 8,
-      "name": "Anonymous proxy",
-      "image":"./images/anonymousproxy.jpg",
-      "technologies": [
-        "html5",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/anonymous-proxy/"
-    },
-    {
-      "id": 9,
-      "name": "Look like loop",
-      "image":"./images/looklikeloop.jpg",
-      "technologies": [
-        "react",
-        "jsx",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
-    },
-    {
-      "id": 10,
-      "name": "Number game",
-      "image":"./images/numbergame.jpg",
-      "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/number-game/"
-    },
-    {
-      "id": 11,
-      "name": "Adalab home version",
-      "image":"./images/adalab.jpg",
-      "technologies": [
-        "html5",
-        "css3",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/adalab-home-version/"
-    },
-    {
-      "id": 12,
-      "name": "K generation",
-      "image":"./images/generationk.jpg",
-      "technologies": [
-        "javascript",
-        "html5",
-        "css3",
-        "sass",
-        "git"
-      ],
-      "url": "https://lauraportillo.github.io/generacion-k/"
-    }
-  ]
+  },
+  {
+    "id": 4,
+    "name": "Rick and Morty",
+    "image": "./images/rickandmorty.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/rick-and-morty/#/"
+  },
+
+  {
+    "id": 5,
+    "name": "Searchflix series finder",
+    "image": "./images/searchflix.jpg",
+    "technologies": ["javascript", "html5", "css3", "git"],
+    "url": "https://lauraportillo.github.io/searchflix-series-finder/"
+  },
+
+  {
+    "id": 4,
+    "name": "Arts Trivial",
+    "image": "./images/trivial2.jpg",
+    "technologies": ["react", "jsx", "css3", " styled comp."],
+    "url": "https://lauraportillo.github.io/trivial/"
+  },
+
+  {
+    "id": 5,
+    "name": "My timer",
+    "image": "./images/timer.jpg",
+    "technologies": ["javascript", "html5", "css3", "git"],
+    "url": "https://lauraportillo.github.io/my-timer/"
+  },
+  {
+    "id": 6,
+    "name": "This is me profile cards",
+    "image": "./images/thisisme.jpg",
+    "technologies": ["javascript", "html5", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
+  },
+  {
+    "id": 7,
+    "name": "The fearlescss",
+    "image": "./images/thefearlescss.jpg",
+    "technologies": ["html5", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/the-fearle-scss/"
+  },
+  {
+    "id": 8,
+    "name": "Anonymous proxy",
+    "image": "./images/anonymousproxy.jpg",
+    "technologies": ["html5", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/anonymous-proxy/"
+  },
+  {
+    "id": 9,
+    "name": "Look like loop",
+    "image": "./images/looklikeloop.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
+  },
+  {
+    "id": 10,
+    "name": "Number game",
+    "image": "./images/numbergame.jpg",
+    "technologies": ["javascript", "html5", "css3", "git"],
+    "url": "https://lauraportillo.github.io/number-game/"
+  },
+  {
+    "id": 11,
+    "name": "Adalab home version",
+    "image": "./images/adalab.jpg",
+    "technologies": ["html5", "css3", "git"],
+    "url": "https://lauraportillo.github.io/adalab-home-version/"
+  },
+  {
+    "id": 12,
+    "name": "K generation",
+    "image": "./images/generationk.jpg",
+    "technologies": ["javascript", "html5", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/generacion-k/"
+  }
+]
