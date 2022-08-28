@@ -25,7 +25,7 @@ const AboutEs = (props) => {
 
           <p className="section2__text--para">
             Admirada por la tecnología me embarco en este viaje como desarrolladora front end, donde de nuevo tengo que
-            construir, estructurar, encajar y mover código, comunicándome con las máquinas.
+            construir, estructurar, encajar y mover código.
           </p>
 
           <p className="section2__text--para">

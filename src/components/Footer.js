@@ -14,7 +14,7 @@ const Footer = () => {
           By Laura Portillo Rodríguez
         </a>
 
-        <small>©2021</small>
+        <small>©2022</small>
       </div>
     </footer>
   );

@@ -23,7 +23,7 @@ const AboutEn = (props) => {
 
           <p className="section2__text--para">
             Admired by technology I embark on this journey as front end developer, where again I have to build,
-            structure, fit and move code, communicating with machines.
+            structure, fit and move code.
           </p>
 
           <p className="section2__text--para">
