@@ -15,17 +15,17 @@
   },
   {
     "id": 3,
+    "name": "Shopping List",
+    "image": "./images/shopping.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/shopping-list/"
+  },
+  {
+    "id": 4,
     "name": "Gif App",
     "image": "./images/gif.jpg",
     "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/gif-app/"
-  },
-  {
-    "id": 4,
-    "name": "Arts Trivial",
-    "image": "./images/trivial2.jpg",
-    "technologies": ["react", "jsx", "css3", "styled comp."],
-    "url": "https://lauraportillo.github.io/trivial/"
   },
   {
     "id": 5,
@@ -36,86 +36,87 @@
   },
   {
     "id": 6,
+    "name": "Heroes SPA",
+    "image": "./images/heroesspa.jpg",
+    "technologies": ["react", "jsx", "bootstrap", "git"],
+    "url": "https://lauraportillo.github.io/heroes-spa/"
+  },
+  {
+    "id": 7,
+    "name": "Arts Trivial",
+    "image": "./images/trivial2.jpg",
+    "technologies": ["react", "jsx", "css3", "styled comp."],
+    "url": "https://lauraportillo.github.io/trivial/"
+  },
+
+  {
+    "id": 8,
     "name": "Read heroes",
     "image": "./images/readheroes.jpg",
     "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/read-heroes/#/"
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Searchflix series finder",
     "image": "./images/searchflix.jpg",
     "technologies": ["javascript", "html5", "css3", "git"],
     "url": "https://lauraportillo.github.io/searchflix-series-finder/"
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "My timer",
     "image": "./images/timer.jpg",
     "technologies": ["javascript", "html5", "css3", "git"],
     "url": "https://lauraportillo.github.io/my-timer/"
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "This is me profile cards",
     "image": "./images/thisisme.jpg",
     "technologies": ["javascript", "html5", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/this-is-me-profile-cards/"
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "The fearlescss",
     "image": "./images/thefearlescss.jpg",
     "technologies": ["html5", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/the-fearle-scss/"
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "Anonymous proxy",
     "image": "./images/anonymousproxy.jpg",
     "technologies": ["html5", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/anonymous-proxy/"
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "Look like loop",
     "image": "./images/looklikeloop.jpg",
     "technologies": ["react", "jsx", "css3", "sass", "git"],
     "url": "https://awesome-profile-cards-lolies.herokuapp.com/#/"
   },
   {
-    "id": 13,
+    "id": 15,
     "name": "Number game",
     "image": "./images/numbergame.jpg",
     "technologies": ["javascript", "html5", "css3", "git"],
     "url": "https://lauraportillo.github.io/number-game/"
   },
   {
-    "id": 14,
+    "id": 16,
     "name": "Adalab home version",
     "image": "./images/adalab.jpg",
     "technologies": ["html5", "css3", "git"],
     "url": "https://lauraportillo.github.io/adalab-home-version/"
   },
   {
-    "id": 15,
+    "id": 17,
     "name": "K generation",
     "image": "./images/generationk.jpg",
     "technologies": ["javascript", "html5", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/generacion-k/"
-  },
-  {
-    "id": 16,
-    "name": "Shopping List",
-    "image": "./images/shopping.jpg",
-    "technologies": ["react", "jsx", "css3", "sass", "git"],
-    "url": "https://lauraportillo.github.io/shopping-list/"
-  },
-  {
-    "id": 17,
-    "name": "Heroes SPA",
-    "image": "./images/heroesspa.jpg",
-    "technologies": ["react", "jsx", "bootstrap", "git"],
-    "url": "https://lauraportillo.github.io/heroes-spa/"
   }
 ]
