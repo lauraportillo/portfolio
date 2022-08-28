@@ -103,5 +103,19 @@
     "image": "./images/generationk.jpg",
     "technologies": ["javascript", "html5", "css3", "sass", "git"],
     "url": "https://lauraportillo.github.io/generacion-k/"
+  },
+  {
+    "id": 16,
+    "name": "Shopping List",
+    "image": "./images/shopping.jpg",
+    "technologies": ["react", "jsx", "css3", "sass", "git"],
+    "url": "https://lauraportillo.github.io/shopping-list/"
+  },
+  {
+    "id": 17,
+    "name": "Heroes SPA",
+    "image": "./images/heroesspa.jpg",
+    "technologies": ["react", "jsx", "bootstrap", "git"],
+    "url": "https://lauraportillo.github.io/heroes-spa/"
   }
 ]
